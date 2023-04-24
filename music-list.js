@@ -9,10 +9,10 @@
 
 let allMusic = [
   {
-    name: "Đám Cưới Nha",
-    artist: "Hồng Thanh,Mie",
-    img: "Dam-Cuoi-Nha",
-    src: "Dam-cuoi-nha"
+    name: "Dù Cho Mai Về Sau",
+    artist: "buitruonglinh",
+    img: "du-cho-mai-ve-sau",
+    src: "Dù Cho Mai Về Sau"
   },
  
   {
@@ -22,10 +22,10 @@ let allMusic = [
     src: "See-Tinh"
   },
   {
-    name: "Chỉ Muốn Bên Em Lúc Này",
-    artist: "Huy Vạc",
-    img: "ChiMuonBenEmLucNay",
-    src: "ChiMuonBenEmLucNay"
+    name: "Đường Tôi Chở Em Về",
+    artist: "buitruonglinh",
+    img: "duong-toi-cho-em-ve",
+    src: "Đường Tôi Chở Em Về"
   },
   {
     name: "Tương 3 +1",
@@ -34,10 +34,10 @@ let allMusic = [
     src: "Tuong 3+1"
   },
   {
-    name: "Chỉ Muốn Bên Em Thật Gần",
-    artist: "YLinh,Xám",
-    img: "Chi-Muon-Ben-Em-That-Gan",
-    src: "Chi-Muon-Ben-Em-That-Gan"
+    name: "Một Mình Ta",
+    artist: "buitruonglinh",
+    img: "mot-minh-ta",
+    src: "Một Mình Ta"
   },
   {
     name: "Em Là Nhất",
@@ -46,9 +46,9 @@ let allMusic = [
     src: "Em-La-Nhat"
   },
   {
-    name: "Vì anh là gió",
-    artist: "Lilk",
-    img: "ViAnhLaGio-LilK-4766315",
-    src: "ViAnhLaGio-LilK-4766315"
+    name: "Yêu Một Người Có Ước Mơ",
+    artist: "buitruonglinh",
+    img: "yeu-mot-ng-co-uoc-mo",
+    src: "Yêu Một Người Có Ước Mơ"
   },
 ];
